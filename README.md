@@ -12,16 +12,12 @@ Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 Provided Mock-up Dashboard
 
-
 # Data Model
-
-
+![Data Model](https://github.com/spriyankagirish/HospitalityRevenueInsight/assets/138349558/e4039aff-89ac-42d9-b8c4-293aab24f699)
 # Overall Analysis View
-
-
+![Screeb shot 1 ](https://github.com/spriyankagirish/HospitalityRevenueInsight/assets/138349558/a57b1884-1383-4dc2-9423-742c22dd3ae1)
 # Monthly Analysis View
-
-
+![Screenshot 2](https://github.com/spriyankagirish/HospitalityRevenueInsight/assets/138349558/4c1e6c0e-937c-4f11-a49b-29504ec7b7bb)
 # Learnt things from this Project
 Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. (Article referred)
 By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
@@ -35,8 +31,3 @@ Week 24 recorded the highest revenue among all, which is 139.6 Million
 Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 AtliQ lost around 298 Million in cancellation
 Elite type rooms has the most booking and as well higher cancellation rate
-
-
-
-![Screeb shot 1 ](https://github.com/spriyankagirish/HospitalityRevenueInsight/assets/138349558/a57b1884-1383-4dc2-9423-742c22dd3ae1)
-![Screenshot 2](https://github.com/spriyankagirish/HospitalityRevenueInsight/assets/138349558/4c1e6c0e-937c-4f11-a49b-29504ec7b7bb)
