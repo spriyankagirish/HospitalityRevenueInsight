@@ -4,7 +4,7 @@ Atliq Grands owns multiple five-star hotels across India. They have been in the 
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
 
-[Live Link Here](https://app.powerbi.com/view?r=eyJrIjoiYzk0NWQ0MzAtOGQ3Ni00MWI5LWExYzgtMmQyODM2YWRiMzdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzk0NWQ0MzAtOGQ3Ni00MWI5LWExYzgtMmQyODM2YWRiMzdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Task List
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
