@@ -33,3 +33,8 @@ Week 24 recorded the highest revenue among all, which is 139.6 Million
 Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 AtliQ lost around 298 Million in cancellation
 Elite type rooms has the most booking and as well higher cancellation rate
+
+
+
+![Screeb shot 1 ](https://github.com/spriyankagirish/HospitalityRevenueInsight/assets/138349558/a57b1884-1383-4dc2-9423-742c22dd3ae1)
+![Screenshot 2](https://github.com/spriyankagirish/HospitalityRevenueInsight/assets/138349558/4c1e6c0e-937c-4f11-a49b-29504ec7b7bb)
